@@ -2,7 +2,6 @@
 - 👀 I’m interested in software
 - 🌱 I’m currently learning python
 - 💞️ Eager to work freelance
-- 📫 How to reach me karameyve@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: "Certain terms in programming languages are inspired by everyday life.
    For example, the term 'debugging,' referring to error correction, originated after computer pioneer Grace Hopper removed a moth from her computer."
